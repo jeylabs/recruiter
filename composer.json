@@ -1,0 +1,17 @@
+{
+    "name": "jeylabs/recruiter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suresh",
+            "email": "suresh.ceymplon@jeylabs.com"
+        }
+    ],
+  "autoload": {
+    "psr-4": {
+      "Jeylabs\\Recruiter\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
