@@ -10,7 +10,7 @@ use Intervention\Image\Facades\Image;
 
 class Recruiter
 {
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.1';
     const CANDIDATE_API = 'api/recruitment-management/candidate';
     const VACANCY_API = 'api/recruitment-management/vacancy';
     const VACANCY_CATEGORY_API = 'api/recruitment-management/vacancy-category';
